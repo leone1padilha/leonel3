@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+
+
+:root {
+
+    --cor-de-fundo: #0c183d;
+    --c1: #ffffff;
+    --c2: #2f00ff;
+    --BAT: #8e39c0;
+    --BATMAN:rgba(58,55,94,0.5);
+    --TXTFD:var(--BATMAN)
+}
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--c1);
+    font-family: 'titan one';
+}
